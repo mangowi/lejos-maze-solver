@@ -1,0 +1,12 @@
+#summary One-sentence summary of this page.
+
+= Introduction =
+
+Anotaciones y consideraciones generales sobre los algoritmos de implementación de hardware y de solución de laberintos.
+
+
+= Details =
+
+==Señales y algoritmo==
+
+Primero que todo, necesitamos definir las señales que el algoritmo que soluciona laberitnos le va a mandar al módulo que hace mover al robot. Iniclamente pensé en unos generales que permitirían viajar por un laberinto pero a la larga se necesita saber cuál es el algoritmo que vamos a implementar para poder definir las señales específicas que necesitamos implementar en el robot. Me explico con un ejemplo:
