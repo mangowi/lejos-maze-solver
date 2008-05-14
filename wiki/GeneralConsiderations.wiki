@@ -1,4 +1,4 @@
-#summary One-sentence summary of this page.
+#summary Consideraciones generales acerca del proyecto
 
 Anotaciones y consideraciones generales sobre los algoritmos de implementación de hardware y de solución de laberintos.
 
